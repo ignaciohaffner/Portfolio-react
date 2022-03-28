@@ -1,0 +1,19 @@
+.contacto {
+  margin: 15%;
+}
+
+.containeer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.containeer a {
+  margin-right: 5%;
+}
+
+.titulo-contact {
+  margin: 5% 0;
+  text-align: center;
+  font-size: 3rem;
+}

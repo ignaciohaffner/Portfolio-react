@@ -1,0 +1,45 @@
+.card-group {
+  margin: 0 7%;
+  background-color: transparent;
+  margin-bottom: 20%;
+  padding: 5% 0;
+}
+
+.card {
+  margin-right: 4%;
+  background-color: #111111;
+  padding: 10px;
+}
+
+.oculto {
+  display: none;
+  transition: all 1s ease;
+}
+
+.card-footer {
+  margin: auto;
+}
+
+.borde {
+  border: 2px solid white;
+}
+.btn {
+  color: white;
+  background-color: transparent;
+  width: 50%;
+  margin: 0 25%;
+}
+
+.titulo {
+  padding-top: 10%;
+  font-size: 4rem;
+  text-align: center;
+  margin-bottom: 5%;
+}
+
+h5 {
+  color: white;
+}
+p {
+  color: white;
+}
