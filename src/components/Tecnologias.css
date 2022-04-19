@@ -91,7 +91,7 @@ i {
   margin-bottom: 55%;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1200px) {
   i {
     font-size: 3rem;
     color: white;
